@@ -1,0 +1,15 @@
+*{
+    background: black;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+}
